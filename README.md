@@ -42,8 +42,8 @@ pip3 install spotipy
 
 To run the scripts:
 
-    Ensure that you have configured the config.ini file with the correct credentials and playlist IDs.
-    Run the desired script using Python:
+Ensure that you have configured the config.ini file with the correct credentials and playlist IDs.
+Run the desired script using Python:
 
 ```bash
 python3 LikedSongsLastXDays.py
